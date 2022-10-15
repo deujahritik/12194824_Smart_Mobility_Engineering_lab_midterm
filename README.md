@@ -15,11 +15,11 @@
 # Course goal
 *• This course consists of multiple guided tutorials and lab sessions with increasing difficulty levels when working with an autonomous robot and machine learning.*
 
-*• You learn how to set up such a TurtleBot3 from scratch using ROS/ROS2, how to interface the individual sensors and actuators, and finally, how to implement the practical projects. 
+*• You learn how to set up such a TurtleBot3 from scratch using ROS/ROS2, how to interface the individual sensors and actuators, and finally, how to implement the practical projects.* 
 
 *• This course provides students with hands-on lab experience applying Ai and robot programming techniques for implementing the final autonomous robot projects.*
 
-# 1.WEEK-3
+# 1.Week-3
 ### Content:-
 *•Installation of ROS2 VMWare Workstation Player Setup.*
 
@@ -27,7 +27,7 @@
 
 *• ROS 1 & Ros 2 Installation*
 
-# 2.WEEK-4
+# 2.Week-4
 ### Content:-
 *•Turtlesim*
 
@@ -41,7 +41,7 @@
 
 *• Creating a package*
 
-# 3.WEEK-5
+# 3.Week-5
 ### Content:-
 *• Writing a simple publisher and subscriber*
 
