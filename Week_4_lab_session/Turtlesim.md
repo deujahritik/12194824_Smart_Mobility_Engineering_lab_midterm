@@ -1,3 +1,0 @@
-# Turtlesim
-
-*hi*
