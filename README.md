@@ -21,15 +21,15 @@
 
 # 1.Week-3
 ### Content:-
-*•Installation of ROS2 VMWare Workstation Player Setup.*
+*•  Installation of ROS2 VMWare Workstation Player Setup.*
 
-*• Configuring Ubuntu Virtual Machine.*
+*•  Configuring Ubuntu Virtual Machine.*
 
-*• ROS 1 & Ros 2 Installation*
+*•  ROS 1 & Ros 2 Installation*
 
 # 2.Week-4
 ### Content:-
-*•Turtlesim*
+*• Turtlesim*
 
 *• ROS2 & RQT*
 
@@ -43,15 +43,15 @@
 
 # 3.Week-5
 ### Content:-
-*• Writing a simple publisher and subscriber*
+*•  Writing a simple publisher and subscriber*
 
-*• Creating custom msg and srv files*
+*•  Creating custom msg and srv files*
 
-*• Implementing custom interfaces*
+*•  Implementing custom interfaces*
 
-*• Using parameters in a class*
+*•  Using parameters in a class*
 
-*• Using ros2doctor to identify issues*
+*•  Using ros2doctor to identify issues*
 
 
 # 4.WEEK-6
@@ -71,3 +71,8 @@
 *• Using substitutions*
 
 *• Using event handlers*
+
+```
+Midterm Assignment.
+Prof. Mehdi Pirahandeh
+```
