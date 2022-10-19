@@ -45,6 +45,8 @@
 *• Creating a workspace*
 
 *• Creating a package*
+https://github.com/deujahritik/12194824_Smart_Mobility_Engineering_lab_midterm/tree/main/Week_4_lab_session
+
 
 # 3.Week-5
 ### Content:-
@@ -57,6 +59,8 @@
 *•  Using parameters in a class*
 
 *•  Using ros2doctor to identify issues*
+
+https://github.com/deujahritik/12194824_Smart_Mobility_Engineering_lab_midterm/tree/main/Week_5_lab_Session
 
 
 # 4.WEEK-6
@@ -78,6 +82,8 @@
 *• Using event handlers*
 
 ```
+https://github.com/deujahritik/12194824_Smart_Mobility_Engineering_lab_midterm/tree/main/Week_6_lab_Session
+
 Midterm Assignment.
 Prof. Mehdi Pirahandeh
 ```
