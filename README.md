@@ -45,6 +45,7 @@
 *• Creating a workspace*
 
 *• Creating a package*
+
 https://github.com/deujahritik/12194824_Smart_Mobility_Engineering_lab_midterm/tree/main/Week_4_lab_session
 
 
@@ -81,8 +82,9 @@ https://github.com/deujahritik/12194824_Smart_Mobility_Engineering_lab_midterm/t
 
 *• Using event handlers*
 
-```
 https://github.com/deujahritik/12194824_Smart_Mobility_Engineering_lab_midterm/tree/main/Week_6_lab_Session
+
+```
 
 Midterm Assignment.
 Prof. Mehdi Pirahandeh
